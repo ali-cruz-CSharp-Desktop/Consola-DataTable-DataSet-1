@@ -1,0 +1,11 @@
+21/08/2022
+Proyecto Consola
+
+Ejemplo: Conexion a SQL Server
+DataSet  y DataTable
+Filtrado básico
+
+Filtrado usando foreach e if
+Filtrado usando Select
+Guardar Filtrado en un nuevo DT.
+
